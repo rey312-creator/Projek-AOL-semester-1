@@ -1,0 +1,5 @@
+score system level 1
+
+basic correct score = +100
+wrong = 0
+mult = 1x = always, 2x = 2 in a row, 3x = 3x in a row, 4x = 4x in a row and so on
