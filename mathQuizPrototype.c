@@ -23,7 +23,7 @@ int main(){
             printf ("Press any key to start level %d\n", lvl); 
             getchar(); //press key to start
             if (lvl == 1) { // restore and state live amount per level
-                printf("you have 3 lives");
+                printf("you have 3 lives\n");
             } else {
                 lives = 3;
                 printf("you lives has been restored to 3");
